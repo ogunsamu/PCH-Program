@@ -1,0 +1,2 @@
+alert("YOU ARE WELCOME...")
+  alert(  "NOTE:TAKE YOUR TIME TO GO THROUGH THE PAGE.")

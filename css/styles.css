@@ -1,0 +1,54 @@
+body{
+
+}
+
+.page{
+    list-style: 2;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-align: center;
+
+}
+
+.img{
+    width: 300px;
+    float: right;
+}
+.lag{
+    width: 300px;
+    float: left;
+}
+
+.beg{
+    width: 300px;
+    float: right;
+}
+
+a:hover{
+    outline-color:#36C2CE ;
+}
+.dog{
+
+width: 300px;
+    float: left;
+    height: 250px;
+}
+
+.bud{
+   width: 300px; 
+
+}
+
+.carousel-item{
+    width: 500px;
+    height: 400px;
+}
+
+.carousel-inner{
+    text-align: center;
+    
+}
+.center{
+    text-align: center;
+    align-items: center;
+}
